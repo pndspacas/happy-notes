@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/happy-notes/static/css/main.97666f96.css",
+    "main.js": "/happy-notes/static/js/main.1f3b6403.js",
+    "static/js/787.2d95ada9.chunk.js": "/happy-notes/static/js/787.2d95ada9.chunk.js",
+    "index.html": "/happy-notes/index.html",
+    "main.97666f96.css.map": "/happy-notes/static/css/main.97666f96.css.map",
+    "main.1f3b6403.js.map": "/happy-notes/static/js/main.1f3b6403.js.map",
+    "787.2d95ada9.chunk.js.map": "/happy-notes/static/js/787.2d95ada9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97666f96.css",
+    "static/js/main.1f3b6403.js"
+  ]
+}
